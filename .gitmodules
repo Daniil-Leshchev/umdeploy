@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Daniil-Leshchev/um-task-tracker-back
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Daniil-Leshchev/um-task-tracker
